@@ -1,6 +1,7 @@
 ---
 layout: post
 tagline: "Graph Traversal"
+description: "图的遍历问题"
 ---
 
 ##图论的一些思考（一）
@@ -48,7 +49,7 @@ BY queati
 
 <br>
 
-可以从这些时间中得到图的一下信息：
+可以从这些时间中得到图的以下信息：
 
 * 是否**存在回路**
 * 图的**拓扑排序**

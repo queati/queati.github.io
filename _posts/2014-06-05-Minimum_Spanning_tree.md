@@ -1,6 +1,7 @@
 ---
 layout: post
 tagline: "minimum spanning tree"
+description: "图的最小生成树"
 ---
 
 ##图论的一些思考（二）
