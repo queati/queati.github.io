@@ -3,6 +3,6 @@ layout: page
 title: me
 ---
 
-![](http://www.kele8.com/uploadfile/2012/0904/20120904032948879.jpg =200x)
+![](http://www.kele8.com/uploadfile/2012/0904/20120904032948879.jpg)
 
-µÃÁËÒ»ÖÖ²»ÄÜÑ§Ï°µÄ²¡ 
+å¾—äº†ä¸€ç§ä¸èƒ½å­¦ä¹ çš„ç—…
